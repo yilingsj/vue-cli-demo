@@ -5,7 +5,8 @@
 	https://github.com/yilingsj/vue-cli-demo/tree/dev-vue-cli-keyUpload-20210605
 
 ## 功能
-只需在控制台中输入 npm run upload:test 并回车，即可实现项目打包并自动上传到服务器，省去人工手动上传的步骤，提高开发效率。该demo支持密钥和密码两种不同的方式登录服务器，看官可根据实际情况进行选择。
+只需在控制台中输入 npm run upload:test 并回车，即可实现项目打包并自动上传到服务器，省去人工手动上传的步骤，提高开发效率。该demo支持密钥和密码两种不同的方式登录服务器，看官可根据实际情况进行选择。效果如下图：
+![在命令行窗口中输入代码实现自动打包及上传.png](https://img.alicdn.com/imgextra/i3/759415648/O1CN01b7EZkQ1rapf9gig5P_!!759415648.png)
 
 ## 视频演示
 [使用密钥连接服务器并成功上传文件.mp4](https://cloud.video.taobao.com//play/u/759415648/p/1/e/6/t/1/312576788141.mp4)

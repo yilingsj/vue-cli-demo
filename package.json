@@ -1,0 +1,26 @@
+{
+  "name": "vue-cli-demo",
+  "version": "1.0.0",
+  "description": "记录自己在使用vue-cli进行日常开发中遇到的一些问题或总结",
+  "main": "chalk-console.js",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "open": "^8.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "chalk": "node ./chalk-console.js",
+    "playMusic": "node ./playMusic.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yilingsj/vue-cli-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yilingsj/vue-cli-demo/issues"
+  },
+  "homepage": "https://github.com/yilingsj/vue-cli-demo#readme"
+}

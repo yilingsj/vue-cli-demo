@@ -1,8 +1,15 @@
-# vue-cli-demo
-记录自己在使用vue-cli进行日常开发中遇到的一些问题或总结
+# 原文地址：
+	http://www.yilingsj.com/xwzj/2021-09-21/vue-cli-keyUpload-chalk-and-playMusic.html
 
-## 更新列表
+# github仓库：
+	https://github.com/yilingsj/vue-cli-demo/tree/dev-vue-cli-keyUpload-chalk-and-playMusic-20210921
 
-分支： [dev-vue-cli-keyUpload-20210605](https://github.com/yilingsj/vue-cli-demo/tree/dev-vue-cli-keyUpload-20210605)  
-功能：前端一键自动部署代码到服务器
+## 功能
+使用node命令，唤醒本地播放器并播放指定音乐。可配合前面的上传代码，实现代码上传到服务器后播放音乐进行提醒。
 
+## 视频演示
+[node实现随机播放铃声.mp4](https://cloud.video.taobao.com//play/u/759415648/p/1/e/6/t/1/327634525747.mp4)
+
+## 相关命令：
+	npm run playMusic // 播放音乐
+	npm run chalk     // 彩色日志
